@@ -1,5 +1,5 @@
 package ejerciciolargo;
 
 public class puntojava {
-	int num;
+System.out.println("Modificacion");
 }
