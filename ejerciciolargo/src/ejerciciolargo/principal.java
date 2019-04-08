@@ -6,7 +6,7 @@ public class principal {
 		Scanner entrada=new Scanner(System.in);
 		
 		int finicio=1, modo, figura, seleccion, operar;
-		double num1, num2, num4, contador=1;
+		double num1, num2, num5, contador=1;
 	
 		while(finicio==1){
 		System.out.println("Bienvenido usuario");
